@@ -39,18 +39,3 @@ _A Windows command-line environment manager for organizing and launching apps._
 
 ---
 
-### 📊 **GitHub Stats**  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agus-dot1&show_icons=true&hide_title=true&hide_profile=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agus-dot1&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
-
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agus-dot1&theme=github-dark&border_radius=5&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-</div>
-
----
